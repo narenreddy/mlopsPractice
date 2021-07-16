@@ -1,0 +1,8 @@
+[core]
+    remote = gdrivestorage
+['remote "macbooklocation"']
+    url = /Users/narenreddy/Dropbox/myVentures/MLpracticedModels/mlopsPractice/mlopsPractice
+['remote "gdrivelocation"']
+    url = https://drive.google.com/drive/folders/1GWpi3WIXhJA0wKCrq95ydOxmygsaj302?usp=sharing
+['remote "gdrivestorage"']
+    url = gdrive://1GWpi3WIXhJA0wKCrq95ydOxmygsaj302
